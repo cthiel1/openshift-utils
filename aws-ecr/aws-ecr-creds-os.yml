@@ -1,5 +1,5 @@
 ---
-- hosts: masters
+- hosts: master1
   vars:
     docker_config_home: $HOME/.docker
     aws_config_home: $HOME/.aws
